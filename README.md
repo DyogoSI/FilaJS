@@ -9,4 +9,9 @@
 ### ATENDER 
 ![Captura de tela 2024-04-16 222113](https://github.com/DyogoSI/FilaJS/assets/152982038/0f14a5f2-75f8-4e56-8a80-53a684f6b4d0)
 
+### FILA VAZIA
+![Captura de tela 2024-04-16 222708](https://github.com/DyogoSI/FilaJS/assets/152982038/69047e4d-6840-46ad-a7fe-bb36da48f291)
+
+
+
 
